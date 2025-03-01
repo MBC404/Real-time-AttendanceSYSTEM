@@ -1,0 +1,11 @@
+Connections
+
+
+RFID RC522 Pin	Arduino UNO Pin	Description
+VCC(3.3v) 	3.3V	Power supply (⚠️ Use 3.3V)
+GND	GND	Ground connection
+SDA (SS)	Pin 10	Serial Data (SPI Chip Select)
+SCK	Pin 13	Serial Clock (SPI Clock)
+MOSI	Pin 11	Master Out Slave In (SPI Data)
+MISO	Pin 12	Master In Slave Out (SPI Data)
+RST	Pin 9	Reset Pin
